@@ -64,19 +64,25 @@
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Coordenador de Desenvolvimento de Sistemas / SUPTI",
+      "period": "Ago 2021 - Current",
+      "description": "Gestão de projetos para desenvolvimento de portais/sites e sistemas, Gestão de Relacionamento com 
+      clientes internos e fornecedores, Apoiar a gestão de implantação de novas soluções, Elaborar apresentações executivas 
+      do projeto e Consultor de aplicação dos sistemas legados."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Analista de Sistemas / SUPTI",
+      "period": "Abr 2019 - Ago 2021",
+      "description": "Execução de atividades correlatas ao desenvolvimento de sistema, documentações de software, arquitetura 
+      de banco de dados, testes de caixa branca utilizando ferramentas de acesso remoto, uso da framework ScriptCase, suporte 
+      aos usuários dos sistemas, treinamentos e levantamento de requisitos."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Analista de Sistemas Júnior / SUPTI",
+      "period": "Jan 2017 - Mar 2019",
+      "description": "Auxiliar ne execução de atividades correlatas ao desenvolvimento de sistema, documentações de software, 
+      arquitetura de banco de dados, testes de caixa branca utilizando ferramentas de acesso remoto, uso da framework ScriptCase, 
+      suporte aos usuários dos sistemas, treinamentos e levantamento de requisitos.."
     }
   ]
 }
